@@ -15,4 +15,3 @@ end
 def move
 
 end
-
