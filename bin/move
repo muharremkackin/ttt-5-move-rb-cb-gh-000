@@ -13,8 +13,10 @@ index = gets.stripe
 
 index = input_to_index(index)
 
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+
 move(board, index, "X")
 
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+
 
 display_board(board)
