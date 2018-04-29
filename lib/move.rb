@@ -8,6 +8,11 @@ end
 
 # code your input_to_index and move method here!
 
-def update_array_at_with(array, index, value)
+def input_to_index(array, index, value)
   array[index] = value
 end
+
+def move
+
+end
+
