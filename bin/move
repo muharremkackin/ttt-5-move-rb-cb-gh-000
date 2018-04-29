@@ -16,3 +16,5 @@ index = input_to_index(index)
 value = gets.stripe
 
 move(board, index, "X")
+
+display_board(board)
