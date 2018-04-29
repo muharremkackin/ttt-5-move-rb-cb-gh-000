@@ -10,3 +10,5 @@ puts "Welcome to Tic Tac Toe!"
 puts "Get some input"
 
 value = gets.stripe
+
+value = input_to_index(value)
