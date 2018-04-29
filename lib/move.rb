@@ -8,8 +8,8 @@ end
 
 # code your input_to_index and move method here!
 
-def input_to_index(string)
-  return string*1
+def input_to_index(value)
+  return integer value
 end
 
 def move
