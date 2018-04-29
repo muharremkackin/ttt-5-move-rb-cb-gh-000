@@ -11,6 +11,8 @@ puts "Where would you like to go"
 
 index = gets.stripe
 
+index = input_to_index(index)
+
 move(board, index, "X")
 
 display_board(board)
