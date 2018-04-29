@@ -15,7 +15,7 @@ index = input_to_index(index)
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
-move(board, index, "X")
+move(board, index, " ")
 
 
 
