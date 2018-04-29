@@ -15,4 +15,4 @@ index = input_to_index(index)
 
 value = gets.stripe
 
-move(board, index, "")
+move(board, index, "X")
